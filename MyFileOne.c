@@ -1,5 +1,5 @@
 /* Start */
-int a =1;
+int a =0;
 if(a)
 {
 	printf("Hello World !");
